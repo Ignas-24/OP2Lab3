@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OP2Lab3.CustomLinkedList&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="10" Y="1" Width="1.75" />
+    <NestedTypes>
+      <Class Name="OP2Lab3.CustomLinkedList&lt;T&gt;.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Code\CustomLinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAABAAAAAQAAQAAAAAAQAAAAAAAQAAAgA=</HashCode>
+      <FileName>Code\CustomLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OP2Lab3.Forma1">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAECAAAIEBAZAAAAAAAAQBgAIAAAYAARAAAAAAYAAAA=</HashCode>
+      <FileName>Code\Forma1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OP2Lab3.InOutUtils">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAEAAAAAAAAAgA=</HashCode>
+      <FileName>Code\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OP2Lab3.Publication" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAADABAAIQAAAAQEgACAAAQAAAAAAAAAAAAAgQAAAAA=</HashCode>
+      <FileName>Code\Publication.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.258" Collapsed="true" />
+  </Class>
+  <Class Name="OP2Lab3.Subscriber" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAABAAAAAAAAQEgACAAEAAAEgAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Code\Subscriber.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OP2Lab3.TaskUtils">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAAAAAAAAAAAAQAAQAABAAAAAAAAAAAECAAAA=</HashCode>
+      <FileName>Code\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OP2Lab3.IPrintTableGeneraliser">
+    <Position X="2.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OP2Lab3.IWebTableGeneraliser">
+    <Position X="4.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OP2Lab3.IWebTableHeader">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

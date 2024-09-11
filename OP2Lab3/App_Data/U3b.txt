@@ -1,0 +1,5 @@
+Augaitis;Liepų g. 40, Kaunas;2;11;6876;2
+Petraitis;Breslaujos g.47, Kaunas;5;2;23645;1
+Brūzga;Rytaičių g. 1, Ringaudai;4;6;41487;3
+Beržinis;Radiotorių g. 5, Kaunas;5;8;98674;1
+Budvaitė;Jūros g. 10, Teneniai;12;1;6876;1

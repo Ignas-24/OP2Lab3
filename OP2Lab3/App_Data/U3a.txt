@@ -1,0 +1,6 @@
+23645;KTU žinios;5,50
+6876;Lietuvos rytas;3,50
+41487;Rytojaus istorija;4,00
+98674;Amerikos žodis;6,50
+12487;Kauno žinios;6,00
+6544;Mokslas;5,60

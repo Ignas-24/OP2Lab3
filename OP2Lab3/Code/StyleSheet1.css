@@ -1,0 +1,31 @@
+﻿body {
+    background-color: aliceblue;
+}
+
+table {
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    border-collapse: collapse;
+    margin-bottom: 2em;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 0.5em;
+}
+
+input {
+    margin-bottom: 1em;
+}
+
+#Label7 {
+    color: red;
+}
+input {
+    border-radius: 5px;
+    border: 1px solid black;
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+}
